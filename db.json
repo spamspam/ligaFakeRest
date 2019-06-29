@@ -11,9 +11,9 @@
   ],
   "teams": [
     {
-      "id": 1,
+      "id": 100,
       "name": "Jedynka Jankowice II",
-      "manager_id": 100,
+      "manager_id": 1,
       "blocked": false
     },
     {
