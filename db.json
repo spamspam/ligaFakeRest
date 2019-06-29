@@ -32,12 +32,14 @@
   "players": [
     {
       "id": 1,
+      "teamId" : 1,
       "firstName": "Tomasz",
       "lastName": "Martyna",
       "birthdate": "1999-01-01"
     },
     {
       "id": 11,
+      "teamId": 2,
       "firstName": "Łukasz",
       "lastName": "Pańczyk",
       "birthdate": "1999-02-01"
