@@ -1,0 +1,15 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Team1"
+    },
+    {
+      "id": 2,
+      "name": "Team2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
