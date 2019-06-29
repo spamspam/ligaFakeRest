@@ -2,11 +2,17 @@
   "teams": [
     {
       "id": 1,
-      "name": "Team1"
+      "name": "Team1",
+      "players": [
+        1,2,3
+      ]
     },
     {
       "id": 2,
-      "name": "Team2"
+      "name": "Team2",
+      "players": [
+        1,2,3
+      ]
     }
   ],
   "profile": {
