@@ -20,13 +20,13 @@
       "id": 2,
       "name": "Royo-Team",
       "manager_id": 11,
-      "blocked": false,
+      "blocked": false
     },
     {
       "id": 3,
       "name": "Drużyna Zablokowana",
       "manager_id": 21,
-      "blocked": true,
+      "blocked": true
     }
   ],
   "players": [
