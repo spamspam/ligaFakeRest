@@ -3,6 +3,7 @@
     {
       "id": 1,
       "name": "Team1",
+      "manager_id": 1,
       "players": [
         1,2,3
       ]
@@ -10,9 +11,18 @@
     {
       "id": 2,
       "name": "Team2",
+      "manager_id": 1,
       "players": [
         1,2,3
       ]
+    }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "firstName": "Jan",
+      "lastName": "Nowak",
+      "birthdate": "1999-01-01"
     }
   ],
   "profile": {
