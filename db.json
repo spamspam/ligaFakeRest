@@ -2,7 +2,7 @@
   "teams": [
     {
       "id": 1,
-      "name": "Team1",
+      "name": "Jedynka Jankowice II",
       "manager_id": 1,
       "players": [
         1,2,3
@@ -10,24 +10,24 @@
     },
     {
       "id": 2,
-      "name": "Team2",
+      "name": "Royo-Team",
       "manager_id": 2,
       "players": [
-        1,2,3
+        1,2,3,4,5,6,7,8,9,10
       ]
     }
   ],
   "players": [
     {
       "id": 1,
-      "firstName": "Jan",
-      "lastName": "Nowak",
+      "firstName": "Tomasz",
+      "lastName": "Martyna",
       "birthdate": "1999-01-01"
     },
     {
       "id": 2,
-      "firstName": "Jan",
-      "lastName": "Kowalski",
+      "firstName": "Łukasz",
+      "lastName": "Pańczyk",
       "birthdate": "1999-02-01"
     }
   ],
